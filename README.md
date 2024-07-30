@@ -1,4 +1,4 @@
-# Fofurices Pet Shop - Ferramentas Adicionais
+# Fofurices Pet Shop - Dumps do Banco de Dados
 
 **Gustavo Barbieri Esposar**  
 Email: [ra00297810@pucsp.edu.br](mailto:ra00297810@pucsp.edu.br)
